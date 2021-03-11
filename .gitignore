@@ -1,0 +1,13 @@
+*.*.local
+*.*~*
+*.dsk
+*.identcache
+*.local
+*.stat
+*.tvsconfig
+Android
+Bin
+Dcu
+Win32
+__history
+__recovery
