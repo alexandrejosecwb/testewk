@@ -442,6 +442,8 @@ begin
 
       memItems.Next;
     end;
+
+  dtsItemsStateChange(nil);
 end;
 
 procedure TPageIndex.memItemsAfterPost(DataSet: TDataSet);
